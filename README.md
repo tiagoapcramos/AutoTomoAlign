@@ -32,7 +32,7 @@ In MATLAB, simply run the test scripts in Scripts/ or modify the simulation para
 ## References
 
 If you pretend to cite any part of the developed algorithms, we would apreciate it if you would refer to the following paper:
-(*ADD REFERENCE TO PUBLICATION*).
+http://dx.doi.org/10.1364/JOSAA.34.001830.
 
 ## License
 
